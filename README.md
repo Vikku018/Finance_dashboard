@@ -3,20 +3,15 @@
 This project visualizes key financial insights from a structured dataset containing:
 
 - Customer details
-
 - Transaction details
-
 - Branch information
-
 - State & city data
-
 - Payment modes
-
 - Transaction types
 
 The dashboard helps organizations monitor revenue, trends, customer activities, and operational performance.
 
-##Objectives
+## Objectives
 
 - Identify financial patterns and trends
 
@@ -28,5 +23,5 @@ The dashboard helps organizations monitor revenue, trends, customer activities, 
 
 - Support data-driven decision making
 
-##Dataset used
+## Dataset used
 - <a href="https://github.com/Vikku018/Finance_dashboard/blob/main/Finance_dashboard.pbix">Dataset</a>
