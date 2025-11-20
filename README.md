@@ -2,9 +2,9 @@
 # project Objective
 This project visualizes key financial insights from a structured dataset containing:
 
-Customer details
+- Customer details
 
-Transaction details
+- Transaction details
 
 Branch information
 
