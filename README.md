@@ -11,14 +11,6 @@ This project visualizes key financial insights from a structured dataset contain
 
 The dashboard helps organizations monitor revenue, trends, customer activities, and operational performance.
 
-## Objectives
-
-- Identify financial patterns and trends
-- Analyze transaction volume and value
-- Understand customer behavior
-- Track branch-level performance
-- Support data-driven decision making
-
 ## Dataset used
 - <a href="https://github.com/Vikku018/Finance_dashboard/blob/main/Finance_dashboard.pbix">Dataset</a>
 
@@ -34,3 +26,17 @@ The dashboard helps organizations monitor revenue, trends, customer activities, 
 - transaction amount vary across different transaction types?
 - monthly transaction trends over time?
 - cities contribute the highest transaction amount?
+
+Dashboard Interaction <a href="https://github.com/Vikku018/Finance_dashboard/blob/main/Snapshot%20of%20Dashbaord.png"> View Dashboard</a>
+
+## Tools & Technologies
+
+- Power BI – Dashboard creation
+- Excel – Dataset storage & cleaning
+- DAX – Measures & calculated fields
+- Power Query – Data transformation
+
+  ## Dashboard
+
+  <img width="1325" height="744" alt="Snapshot of Dashbaord" src="https://github.com/user-attachments/assets/991960df-aa68-48af-9f37-a890900df0dd" />
+
