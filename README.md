@@ -58,30 +58,12 @@ The Finance Dashboard provides a clear view of financial activity across states,
 - Load the dataset if prompted
 - Explore filters, slicers, and visuals
 
-🤝 Contribution
+## 🤝 Contribution
 
 Pull requests are welcome.
 For major changes, please open an issue first to discuss what you would like to modify.
 
-📧 Contact
-
-For any questions, feel free to reach out:
-How to Use
-
-Download the .pbix file
-
-Open in Power BI Desktop
-
-Load the dataset if prompted
-
-Explore filters, slicers, and visuals
-
-🤝 Contribution
-
-Pull requests are welcome.
-For major changes, please open an issue first to discuss what you would like to modify.
-
-📧 Contact
+## 📧 Contact
 
 For any questions, feel free to reach out:
 Vikku Kumar
