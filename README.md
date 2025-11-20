@@ -1,2 +1,17 @@
-# Finance_dashboard
-I developed a comprehensive project in Power BI , creating multiple dashboards and tables to analyze the data. this process involved several stages, including data preprocessing, data cleaning and data visualization.
+# Finance_Dashboard (Interactive Dashboard creation using Power BI)
+# project Objective
+This project visualizes key financial insights from a structured dataset containing:
+
+Customer details
+
+Transaction details
+
+Branch information
+
+State & city data
+
+Payment modes
+
+Transaction types
+
+The dashboard helps organizations monitor revenue, trends, customer activities, and operational performance.
