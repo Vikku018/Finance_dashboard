@@ -67,6 +67,7 @@ For major changes, please open an issue first to discuss what you would like to 
 
 For any questions, feel free to reach out:
 
-Vikku Kumar
+VIKKU KUMAR
+
 
 Email: vikku.kr98@gmail.com
